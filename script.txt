@@ -1,0 +1,18 @@
+{
+    title: "How to Deploy a Repository as a Static Webpage | GitHub",
+    
+    description: "",
+    
+    content: "",
+
+}
+
+description: 
+    GithHub has a great feature that allows us to host a static website for free. This can be very useful as a way to show off your application, profile or individual projects. 
+
+
+Using gh-pages:
+    step 1. navigate to the repository you would like to make a page for.
+    step 2. click on the settings button.
+    
+ 
